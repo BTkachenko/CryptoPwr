@@ -1,0 +1,10 @@
+        NON CRT     CRT
+4096    192sec    50sec
+3072    83sec     20sec
+2048    25sec     6sec
+1024    3337ms    906ms
+512     499ms     155ms
+256     128ms     49ms
+128     51ms      18ms
+
+Czas dla 1000 wywołań funkcji odwrotnej

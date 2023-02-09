@@ -1,0 +1,2 @@
+Algorytm - AES256
+Passphrase - 25663000
